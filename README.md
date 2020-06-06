@@ -14,6 +14,8 @@ Two data files for use in training and validating models are provided: train.csv
 
 Note: All tickets where the violators were found not responsible are not considered during evaluation. They are included in the training set as an additional source of data for visualization, and to enable unsupervised and semi-supervised approaches. However, they are not included in the test set.
 
+## Solution
+For solution kindly check out [this file] (https://github.com/ojsindher/Applied_Machine_Learning_Coursera_Assignment/blob/master/Assignment%2B4.ipynb)
 
 ## Data fields
 
