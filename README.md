@@ -1,10 +1,11 @@
 # Applied_Machine_Learning_Coursera_Assignment
 **_Assignment 4 - Understanding and Predicting Property Maintenance Fines_**
+
 This is final asssignment of Applied Machine Learning course offered on Coursera platform by University of Michigan. This assignment is based on a data challenge from the Michigan Data Science Team ([MDST](http://midas.umich.edu/mdst/)). 
 
 The Michigan Data Science Team ([MDST](http://midas.umich.edu/mdst/)) and the Michigan Student Symposium for Interdisciplinary Statistical Sciences ([MSSISS](https://sites.lsa.umich.edu/mssiss/)) have partnered with the City of Detroit to help solve one of the most pressing problems facing Detroit - blight. [Blight violations](http://www.detroitmi.gov/How-Do-I/Report/Blight-Complaint-FAQs) are issued by the city to individuals who allow their properties to remain in a deteriorated condition. Every year, the city of Detroit issues millions of dollars in fines to residents and every year, many of these fines remain unpaid. Enforcing unpaid blight fines is a costly and tedious process, so the city wants to know: how can we increase blight ticket compliance?
 
-**Objective**
+## Objective
 Predictive modelling - to predict whether a given blight ticket will be paid on time.
 
 All data for this assignment has been provided to us through the [Detroit Open Data Portal](https://data.detroitmi.gov/).
@@ -14,7 +15,7 @@ Two data files for use in training and validating models are provided: train.csv
 Note: All tickets where the violators were found not responsible are not considered during evaluation. They are included in the training set as an additional source of data for visualization, and to enable unsupervised and semi-supervised approaches. However, they are not included in the test set.
 
 
-**Data fields**
+## Data fields
 
 train.csv & test.csv
 
